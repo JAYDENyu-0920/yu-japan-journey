@@ -1,0 +1,2424 @@
+{
+  "schemaVersion": 1,
+  "syncedAt": "2026-11-10T13:14:20.294Z",
+  "syncMode": "snapshot",
+  "spots": [
+    {
+      "id": "40baaca0-78ff-809f-a8ee-c2fadad05cca",
+      "name": "高山寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "8 Umegahata Toganoocho, Ukyo Ward, Kyoto, 616-8295日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8100-b2e9-e6b35086fc8b",
+      "name": "永源寺",
+      "region": "滋賀縣",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "41 Eigenji Takanocho, Higashiomi, Shiga 527-0212日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8101-b928-c88c98b69fd0",
+      "name": "伏見桃山陵",
+      "region": "京都府",
+      "types": [
+        "文化"
+      ],
+      "address": "Momoyamacho Kojosan, Fushimi Ward, Kyoto, 612-0831日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8102-b72e-ef6f5af727fb",
+      "name": "那智の滝",
+      "region": "和歌山縣",
+      "types": [
+        "自然"
+      ],
+      "address": "Nachisan, Nachikatsuura, Higashimuro District, Wakayama 649-5301日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8105-b57e-f725fe4b3ad9",
+      "name": "大齋原",
+      "region": "和歌山縣",
+      "types": [
+        "神社"
+      ],
+      "address": "1 Hongucho Hongu, Tanabe, Wakayama 647-1731日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8108-ac58-f548becf7f4d",
+      "name": "日牟禮八幡宮",
+      "region": "滋賀縣",
+      "types": [
+        "神社"
+      ],
+      "address": "257 Miyauchicho, Omihachiman, Shiga 523-0828日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-810a-af39-f3daa58ffa82",
+      "name": "本州最南端の碑",
+      "region": "和歌山縣",
+      "types": [
+        "自然"
+      ],
+      "address": "Shionomisaki, Kushimoto, Higashimuro District, Wakayama 649-3502日本",
+      "parking": "",
+      "road": "",
+      "notes": "本州最南端",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-810b-b786-f4accec6915e",
+      "name": "白蛇弁財天",
+      "region": "和歌山縣",
+      "types": [
+        "神社"
+      ],
+      "address": "JWMX+VH, Katsuura, Nachikatsuura, Higashimuro District, Wakayama 649-5334日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-810c-b647-f56c84798330",
+      "name": "奇絶峡",
+      "region": "和歌山縣",
+      "types": [
+        "自然",
+        "賞楓"
+      ],
+      "address": "Kamiakizu, 田邊市和歌山縣 646-0001日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-810d-b542-e02dde6f56f5",
+      "name": "三千院",
+      "region": "京都府",
+      "types": [
+        "寺廟"
+      ],
+      "address": "540 Ohararaikoincho, Sakyo Ward, Kyoto, 601-1242日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-810f-bb49-fa3c9846ae80",
+      "name": "紀三井寺",
+      "region": "和歌山縣",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "1201 Kimiidera, Wakayama, 641-0012日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8110-ac07-e2e89a3202dd",
+      "name": "真如堂",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "82 Jodoji Shinnyocho, Sakyo Ward, Kyoto, 606-8414日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8112-9e4a-c7fb69a2a51c",
+      "name": "高台寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒605-0825 Kyoto, Higashiyama Ward, 高台寺下河原町５２６",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8114-b49d-f4d3e734518d",
+      "name": "寶筐院",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒616-8424 Kyoto, Ukyo Ward, Sagashakado Monzen Minamichuincho, 9-1 宝筺院",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8115-be83-c0e96b74f430",
+      "name": "十牛之庭",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "13 Ichijoji Kotanicho, Sakyo Ward, Kyoto, 606-8147日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8117-9734-ede3ece9e411",
+      "name": "化野念佛寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "１７番地 Sagatoriimoto Adashinocho, Ukyo Ward, Kyoto, 616-8436日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-811a-b20e-ed2ace6a41af",
+      "name": "萬福寺",
+      "region": "京都府",
+      "types": [
+        "寺廟",
+        "文化"
+      ],
+      "address": "日本〒611-0011 Kyoto, Uji, Gokasho, Sanbanwari−３４",
+      "parking": "",
+      "road": "",
+      "notes": "宇治一日遊",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-811b-89e5-fdb57837cf31",
+      "name": "三井寺展望台",
+      "region": "滋賀縣",
+      "types": [
+        "自然"
+      ],
+      "address": "Onjojicho, Otsu, Shiga 520-0036日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8121-aa29-df98727da22f",
+      "name": "鷲ヶ峰コスモスパーク",
+      "region": "和歌山縣",
+      "types": [
+        "自然"
+      ],
+      "address": "244-2 Nagatani, Aridagawa, Arida District, Wakayama 643-0841日本",
+      "parking": "",
+      "road": "",
+      "notes": "日落景點",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8123-9778-fabeb1a2f4df",
+      "name": "十輪寺",
+      "region": "京都府",
+      "types": [
+        "寺廟"
+      ],
+      "address": "481 Oharano Oshiocho, Nishikyo Ward, Kyoto, 610-1133日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8123-9ec8-cf41773dd890",
+      "name": "石山寺観光駐車場",
+      "region": "滋賀縣",
+      "types": [
+        "停車場"
+      ],
+      "address": "3 Chome-2-562 Ishiyamadera, Otsu, Shiga 520-0861日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8123-b153-c1c818b48faf",
+      "name": "龍安寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "13 Ryoanji Goryonoshitacho, Ukyo Ward, Kyoto, 616-8001日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8125-bec8-e0704d197e55",
+      "name": "榮攝院",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "121 Kurodanicho, Sakyo Ward, Kyoto, 606-8331日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-812c-a85b-e50d2c72d9bc",
+      "name": "天龍寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒616-8385 Kyoto, Ukyo Ward, Sagatenryuji Susukinobabacho, ６８",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-812d-a109-c2e3a5c8cdb5",
+      "name": "平等院",
+      "region": "京都府",
+      "types": [
+        "文化"
+      ],
+      "address": "Renge-116 Uji, Kyoto 611-0021日本",
+      "parking": "",
+      "road": "",
+      "notes": "宇治一日遊",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-812e-9ca4-ea59c4724bba",
+      "name": "松尾大社",
+      "region": "京都府",
+      "types": [
+        "神社"
+      ],
+      "address": "日本〒616-0024 Kyoto, Nishikyo Ward, Arashiyama Miyamachi, ３",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8132-916e-da93b7aa82d9",
+      "name": "晴明神社（安倍晴明故居）",
+      "region": "京都府",
+      "types": [
+        "神社"
+      ],
+      "address": "806 Seimeicho, Kamigyo Ward, Kyoto, 602-8222日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8133-a138-e858225a5f41",
+      "name": "妙円寺 (松ヶ崎大黒天)",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "31 Matsugasaki Higashimachi, Sakyo Ward, Kyoto, 606-0943日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8134-b9fa-cda2381bca5a",
+      "name": "建仁寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒605-0811 Kyoto, Higashiyama Ward, Komatsucho, ５８４番地",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8135-91f5-e5c8c6f04b41",
+      "name": "御上神社 末社三宮神社",
+      "region": "滋賀縣",
+      "types": [
+        "神社"
+      ],
+      "address": "838 Mikami, Yasu, Shiga 520-2323日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8137-bc4b-c791b0560666",
+      "name": "源光庵",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "47 Takagamine Kitatakaminecho, Kita Ward, Kyoto, 603-8468日本",
+      "parking": "",
+      "road": "",
+      "notes": "血天井",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-813b-8670-e179bee977d1",
+      "name": "本法寺",
+      "region": "京都府",
+      "types": [
+        "銀杏",
+        "寺廟"
+      ],
+      "address": "日本〒602-0061 Kyoto, Kamigyo Ward, Honpojimaecho, 617",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-813b-9106-cacc6877ffcd",
+      "name": "大德寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "53 Murasakino Daitokujicho, Kita Ward, Kyoto, 603-8231日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-813c-acf3-db2c217ea797",
+      "name": "大覺寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "4 Sagaosawacho, Ukyo Ward, Kyoto, 616-8411日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-813c-b237-e014a3ecded8",
+      "name": "平安神宮",
+      "region": "京都府",
+      "types": [
+        "神社",
+        "文化"
+      ],
+      "address": "97 Okazaki Nishitennocho, Sakyo Ward, Kyoto, 606-8341日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-813f-aca7-c9485d7c6d40",
+      "name": "大原野神社",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "神社"
+      ],
+      "address": "1152 Oharano Minamikasugacho, Nishikyo Ward, Kyoto, 610-1153日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-813f-babe-d9bd4a85db1e",
+      "name": "葉室山 淨住寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒615-8276 Kyoto, Nishikyo Ward, Yamadahirakicho, ９",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8142-8ca1-c762c24d7ca9",
+      "name": "勝林寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "15 Chome-795 Honmachi, Higashiyama Ward, Kyoto, 605-0981日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8143-9bd9-f66cec02ab3e",
+      "name": "等持院",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "63 Tojiin Kitamachi, Kita Ward, Kyoto, 603-8346日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8143-9f7f-f5a9e3a54b66",
+      "name": "橋杭岩",
+      "region": "和歌山縣",
+      "types": [
+        "自然"
+      ],
+      "address": "Kujinokawa, Kushimoto, Higashimuro District, Wakayama 649-3511日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8144-a96b-cee1a8b1be5d",
+      "name": "紀伊國一之宮 伊太祁曾神社",
+      "region": "和歌山縣",
+      "types": [
+        "神社"
+      ],
+      "address": "558 Idakiso, Wakayama, 640-0361日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8148-b3cd-dcba24da61e9",
+      "name": "金剛輪寺",
+      "region": "滋賀縣",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "874 Matsuoji, Aishō, Echi District, Shiga 529-1202日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8148-bdc2-f341c0585ce1",
+      "name": "宇治神社（兔子神社）",
+      "region": "京都府",
+      "types": [
+        "神社"
+      ],
+      "address": "日本〒611-0021 Kyoto, Uji, Yamada−１",
+      "parking": "",
+      "road": "",
+      "notes": "宇治一日遊",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-814a-9fcf-f0cd56072b38",
+      "name": "法觀寺（八坂之塔）",
+      "region": "京都府",
+      "types": [
+        "寺廟"
+      ],
+      "address": "京都市東山区清水, 388 Yasaka Kamimachi, Higashiyama Ward, Kyoto, 605-0862日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-814a-bc27-ea233c5bf7fa",
+      "name": "獨鈷拋山千手寺",
+      "region": "京都府",
+      "types": [
+        "自然",
+        "寺廟"
+      ],
+      "address": "日本〒621-0037 Kyoto, Kameoka, Hiedanocho Rokuya, Otawa−７",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-814b-a2ef-c6ca970d9cbd",
+      "name": "七寶瀧寺",
+      "region": "大阪府",
+      "types": [
+        "寺廟"
+      ],
+      "address": "8 Ogi, Izumisano, Osaka 598-0023日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-814f-8e15-e1bb183ccd5c",
+      "name": "石山寺",
+      "region": "滋賀縣",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "1 Chome-1-1 Ishiyamadera, Otsu, Shiga 520-0861日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8150-8622-e5168adbd039",
+      "name": "比叡山ドライブウエイ（ガーデンミュージアム比叡） 駐車場",
+      "region": "京都府",
+      "types": [
+        "停車場"
+      ],
+      "address": "Sakyo Ward, Kyoto, 606-0000日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8150-a889-dcd4f1bbeeb7",
+      "name": "吟松寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "32 Takagamine Senzokucho, Kita Ward, Kyoto, 603-8469日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8151-bce1-e4b2e8459062",
+      "name": "毘沙門堂",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "18 Anshuinariyamacho, Yamashina Ward, Kyoto, 607-8003日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8156-9791-c2108f6111f0",
+      "name": "宇治上神社",
+      "region": "京都府",
+      "types": [
+        "神社"
+      ],
+      "address": "日本〒611-0021 Kyoto, Uji, Yamada−５９",
+      "parking": "",
+      "road": "",
+      "notes": "宇治一日遊",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8156-ac6b-dab6824d5442",
+      "name": "修學院離宮",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "自然"
+      ],
+      "address": "1-5 Shugakuin Yabusoe, Sakyo Ward, Kyoto, 606-8052日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8156-b230-c52895e276b1",
+      "name": "大田神社",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "神社"
+      ],
+      "address": "340 Kamigamo Motoyama, Kita Ward, Kyoto, 603-8047日本",
+      "parking": "",
+      "road": "",
+      "notes": "必去",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8159-b6b9-ff8b7ef7a993",
+      "name": "龍穏寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "Komizobata-1 Sonobecho Nie, Nantan, Kyoto 622-0061日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-815b-81ff-dbba6345a58d",
+      "name": "天授庵",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒606-8435 Kyoto, Sakyo Ward, Nanzenji Fukuchicho, 86−８",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-815b-84d4-cce1dd64068c",
+      "name": "犬鳴山不動尊駐車場",
+      "region": "大阪府",
+      "types": [
+        "停車場"
+      ],
+      "address": "2465-1 Ogi, Izumisano, Osaka 598-0023日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-815c-a63c-dd14a0b47bf7",
+      "name": "とがの木茶屋",
+      "region": "和歌山縣",
+      "types": [
+        "自然"
+      ],
+      "address": "Nakahechicho Nonaka, Tanabe, Wakayama 646-1401日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-815d-8c65-d795a0413e7e",
+      "name": "建部大社第一駐車場",
+      "region": "滋賀縣",
+      "types": [
+        "停車場"
+      ],
+      "address": "1 Chome-18-18 Jinryo, Otsu, Shiga 520-2132日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-815d-b42c-eca27552e9e2",
+      "name": "南禪寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "86 Nanzenji Fukuchicho, Sakyo Ward, Kyoto, 606-8435日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8161-8687-fe3080464dcd",
+      "name": "琵琶湖白鬚神社",
+      "region": "滋賀縣",
+      "types": [
+        "神社"
+      ],
+      "address": "216 Ukawa, Takashima, Shiga 520-1122日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8162-abb4-eed3787e939f",
+      "name": "らぁ麺 櫻井 西院店",
+      "region": "京都府",
+      "types": [
+        "食物"
+      ],
+      "address": "日本〒615-0014 Kyoto, Ukyo Ward, Saiintatsumicho, 41 2F",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8167-a8e6-cfa3d2c0bf46",
+      "name": "壬生寺",
+      "region": "京都府",
+      "types": [
+        "文化",
+        "寺廟"
+      ],
+      "address": "日本〒604-8821 Kyoto, Nakagyo Ward, Mibunaginomiyacho, ３１",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8168-a6c1-c0ed59b4105d",
+      "name": "龜岡霧之平台",
+      "region": "京都府",
+      "types": [
+        "自然"
+      ],
+      "address": "Otani Sogabecho Nanjo, Kameoka, Kyoto 621-0854日本",
+      "parking": "",
+      "road": "",
+      "notes": "日出與雲海",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8168-a755-ea2691d10e50",
+      "name": "御上神社 參拜者駐車場",
+      "region": "滋賀縣",
+      "types": [
+        "停車場"
+      ],
+      "address": "849 Mikami, Yasu, Shiga 520-2323日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8169-9a8f-f42a024a082d",
+      "name": "光明寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "Saijo-ノ内26-1 Ao, Nagaokakyo, Kyoto 617-0811日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8169-a21a-f794e142aa50",
+      "name": "青岸渡寺",
+      "region": "和歌山縣",
+      "types": [
+        "寺廟",
+        "自然"
+      ],
+      "address": "8 Nachisan, Nachikatsuura, Higashimuro District, Wakayama 649-5301日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-816d-89bf-cae5923d3447",
+      "name": "三井寺駐車場",
+      "region": "滋賀縣",
+      "types": [
+        "停車場"
+      ],
+      "address": "Onjojicho, Otsu, Shiga 520-0036日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-816e-b1a0-e79d2508320c",
+      "name": "天台宗蓮華寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒606-0065 Kyoto, Sakyo Ward, Kamitakano Hachimancho, １−1",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8172-b0c2-e23894747991",
+      "name": "三重塔",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "Jodoji Shinnyocho, Sakyo Ward, Kyoto, 606-8414日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8174-9f05-d4db443a05c7",
+      "name": "G S パーク辻",
+      "region": "京都府",
+      "types": [
+        "停車場"
+      ],
+      "address": "13-4 Saiinshimohanadacho, Ukyo Ward, Kyoto, 615-0004日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8177-bad7-d79c8e602526",
+      "name": "教林坊駐車場",
+      "region": "滋賀縣",
+      "types": [
+        "停車場"
+      ],
+      "address": "Azuchicho Ishidera, Omihachiman, Shiga 521-1331日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8178-9969-f23f19a43073",
+      "name": "華嚴寺（鈴蟲寺）",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "31 Matsumurojikecho, Nishikyo Ward, Kyoto, 615-8294日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-817a-b530-dcf00c845cef",
+      "name": "牛滝山 大威德寺",
+      "region": "大阪府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "1178 Osawacho, Kishiwada, Osaka 596-0114日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-817a-b6a7-d3eda5cb923a",
+      "name": "西明寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "1-1 Umegahata Makinoocho, Ukyo Ward, Kyoto, 616-8291日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-817b-9d94-f7554449f781",
+      "name": "安倍晴明神社",
+      "region": "大阪府",
+      "types": [
+        "神社"
+      ],
+      "address": "5-16 Abeno Motomachi, Abeno Ward, Osaka, 545-0034日本",
+      "parking": "",
+      "road": "",
+      "notes": "大阪-晴明神社",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-817b-bc49-d4d43e815034",
+      "name": "金剛輪寺駐車場",
+      "region": "滋賀縣",
+      "types": [
+        "停車場"
+      ],
+      "address": "Matsuoji, Aishō, Echi District, Shiga 529-1202日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-817c-93fb-c82544363cd3",
+      "name": "神倉神社",
+      "region": "和歌山縣",
+      "types": [
+        "神社"
+      ],
+      "address": "1 Chome-13-8 Kamikura, Shingu, Wakayama 647-0081日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-817c-a0d4-ecf7d7ecf353",
+      "name": "臨濟宗 大本山 妙心寺",
+      "region": "京都府",
+      "types": [
+        "寺廟"
+      ],
+      "address": "1 Hanazonomyoshinjicho, Ukyo Ward, Kyoto, 616-8035日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-817e-89d6-d4d13462bede",
+      "name": "浮御堂（滿月寺）",
+      "region": "滋賀縣",
+      "types": [
+        "自然",
+        "寺廟"
+      ],
+      "address": "1 Chome-16-18 Honkatata, Otsu, Shiga 520-0242日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-817e-9764-e5e78b5432a1",
+      "name": "知恩院",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "400 Rinkacho, Higashiyama Ward, Kyoto, 605-8686日本",
+      "parking": "",
+      "road": "",
+      "notes": "夜楓",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8182-9add-e369510e78be",
+      "name": "水路閣",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "Nanzenji Furoyamacho, Sakyo Ward, Kyoto, 606-0000日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8183-b7d3-e352c831feea",
+      "name": "百済寺 駐車場",
+      "region": "滋賀縣",
+      "types": [
+        "停車場"
+      ],
+      "address": "323 Hyakusaijicho, Higashiomi, Shiga 527-0144日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8186-89b7-daa4bc7fbae1",
+      "name": "酬恩庵",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "102 Takigisatonouchi, Kyotanabe, Kyoto 610-0341日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-818c-81e4-c543091061ec",
+      "name": "地蔵院（竹寺）",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒615-8285 Kyoto, Nishikyo Ward, Yamadakitanocho, ２３−23",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-818c-a3fc-f5683d2dea9a",
+      "name": "熊野速玉大社",
+      "region": "和歌山縣",
+      "types": [
+        "神社"
+      ],
+      "address": "1番地 Shingu, Wakayama 647-0081日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-818c-b502-f75a645467a6",
+      "name": "圓光寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "13 Ichijoji Kotanicho, Sakyo Ward, Kyoto, 606-8147日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8190-bc4d-e82f313baa9d",
+      "name": "白鬚神社",
+      "region": "滋賀縣",
+      "types": [
+        "神社",
+        "自然"
+      ],
+      "address": "215 Ukawa, Takashima, Shiga 520-1122日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8194-9ba2-e51f055a443d",
+      "name": "將軍塚",
+      "region": "京都府",
+      "types": [
+        "自然"
+      ],
+      "address": "28 Zushiokukachocho, Yamashina Ward, Kyoto, 607-8456日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8197-9646-c6b0c83e2bd5",
+      "name": "今宮神社",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "神社"
+      ],
+      "address": "21 Murasakino Imamiyacho, Kita Ward, Kyoto, 603-8243日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-8199-8eb1-db5ca1c0f155",
+      "name": "瀞峡めぐり乗船場",
+      "region": "和歌山縣",
+      "types": [
+        "自然"
+      ],
+      "address": "8-1 Kumanogawacho Tamakiguchi, Shingu, Wakayama 647-1231日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-819e-8a64-d6fbf222decb",
+      "name": "京都御所",
+      "region": "京都府",
+      "types": [
+        "城堡"
+      ],
+      "address": "内 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0811日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81a1-a469-cb5bdd1d26d7",
+      "name": "清凉寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒616-8447 Kyoto, Ukyo Ward, Sagashakadofujinokicho, ４６",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81a4-8864-d04a8ff0779f",
+      "name": "長等神社",
+      "region": "滋賀縣",
+      "types": [
+        "神社"
+      ],
+      "address": "4-1 Miideracho, Otsu, Shiga 520-0034日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81a6-91cf-f859677a2208",
+      "name": "丹生酒殿神社",
+      "region": "和歌山縣",
+      "types": [
+        "銀杏",
+        "神社"
+      ],
+      "address": "631 Mitani, Katsuragi, Ito District, Wakayama 649-7133日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81a7-9a6f-ce8d21224d63",
+      "name": "古知谷 阿彌陀寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "83 Oharakochihiracho, Sakyo Ward, Kyoto, 601-1235日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81a8-8fb8-dbab0c148876",
+      "name": "相國寺",
+      "region": "京都府",
+      "types": [
+        "寺廟",
+        "文化"
+      ],
+      "address": "日本〒602-0898 Kyoto, Kamigyo Ward, Sokokuji Monzencho, 701",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81aa-83f3-f5002cb9887e",
+      "name": "継桜王子",
+      "region": "和歌山縣",
+      "types": [
+        "神社"
+      ],
+      "address": "Nakahechicho Nonaka, Tanabe, Wakayama 646-1401日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ab-96f7-f062513ae67e",
+      "name": "向日神社",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "神社"
+      ],
+      "address": "Kitayama-65 Mukocho, Muko, Kyoto 617-0005日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ab-b647-e4b0507513f1",
+      "name": "Kumano Cafe",
+      "region": "和歌山縣",
+      "types": [
+        "食物"
+      ],
+      "address": "1069 Katsuura, Nachikatsuura, Higashimuro District, Wakayama 649-5334日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ac-ad34-db94777247e1",
+      "name": "宝泉寺のイチョウ",
+      "region": "和歌山縣",
+      "types": [
+        "銀杏",
+        "寺廟"
+      ],
+      "address": "Nakahechicho Fukusada, Tanabe, Wakayama 646-1432日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ae-96a4-e75ee2a96d60",
+      "name": "岩尾池のスギ",
+      "region": "滋賀縣",
+      "types": [
+        "自然"
+      ],
+      "address": "Konancho Sugitani, Koka, Shiga 520-3314日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81af-b748-d4d8d9228b93",
+      "name": "燈明崎",
+      "region": "和歌山縣",
+      "types": [
+        "自然"
+      ],
+      "address": "Taiji, Higashimuro District, Wakayama 649-5171日本",
+      "parking": "",
+      "road": "",
+      "notes": "Taiji, Higashimuro District, Wakayama 649-5171日本-駐車場（太地町）",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81b0-8ae5-c0a4892c3f6e",
+      "name": "教林坊",
+      "region": "滋賀縣",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "1145 Azuchicho Ishidera, Omihachiman, Shiga 521-1331日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81b2-93bc-f148082cbf0f",
+      "name": "今熊野觀音寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒605-0977 Kyoto, Higashiyama Ward, Sennyuji Yamanouchicho, ３２",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81b7-a043-dc9e4fdd0bf7",
+      "name": "直指庵",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "3 Kitasaga Kitanodancho, Ukyo Ward, Kyoto, 616-8441日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81b7-b862-da202005666a",
+      "name": "日牟禮八幡宮前 免費停車場（里道）",
+      "region": "滋賀縣",
+      "types": [
+        "停車場"
+      ],
+      "address": "257 Miyauchicho, Omihachiman, Shiga 523-0828日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81b9-b8a0-c1b090107fab",
+      "name": "來迎院",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "537 Ohararaikoincho, Sakyo Ward, Kyoto, 601-1242日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ba-aff0-dcdc0f067952",
+      "name": "熊野川川舟センター",
+      "region": "和歌山縣",
+      "types": [
+        "自然",
+        "體驗"
+      ],
+      "address": "54-8 Kumanogawacho Tanago, Shingu, Wakayama 647-1211日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ba-b54e-e47924a84db8",
+      "name": "赤山禪院 山門",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "8-1 Shugakuin Kaikonbocho, Sakyo Ward, Kyoto, 606-8036日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81bb-aee9-f2ebcab060ba",
+      "name": "灌頂橋",
+      "region": "京都府",
+      "types": [
+        "自然"
+      ],
+      "address": "Umegahata Nishinohatacho, Ukyo Ward, Kyoto, 616-8291日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81bc-a161-e09f23c68593",
+      "name": "伏見桃山城",
+      "region": "京都府",
+      "types": [
+        "城堡"
+      ],
+      "address": "45 Momoyamacho Okura, Fushimi Ward, Kyoto, 612-0853日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81c8-a20d-f3f61816d75a",
+      "name": "救馬溪觀音",
+      "region": "和歌山縣",
+      "types": [
+        "賞楓",
+        "神社"
+      ],
+      "address": "313 Ikuma, Kamitonda, Nishimuro District, Wakayama 649-2103日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ca-9051-ee220b92aa6e",
+      "name": "雞足寺",
+      "region": "滋賀縣",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "Kinomotocho Furuhashi, Nagahama, Shiga 529-0411日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ca-b828-eb0949549a69",
+      "name": "鹿王院",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "24 Sagakitaboricho, Ukyo Ward, Kyoto, 616-8367日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81d0-88a8-f19385468f39",
+      "name": "愛宕念佛寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "2-5 Sagatoriimoto Fukatanicho, Ukyo Ward, Kyoto, 616-8439日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81d2-b5dd-e3a040851e47",
+      "name": "白龍園",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "106 Kuramaninosecho, Sakyo Ward, Kyoto, 601-1113日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81d4-9474-cbf5f8956856",
+      "name": "狸谷山不動院",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "6 Ichijoji Matsubaracho, Sakyo Ward, Kyoto, 606-8156日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81d7-88d3-e68ed0a99095",
+      "name": "根來寺",
+      "region": "和歌山縣",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "2286 Negoro, Iwade, Wakayama 649-6202日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81d8-9bd8-d056de277f4d",
+      "name": "觀流橋",
+      "region": "京都府",
+      "types": [
+        "自然"
+      ],
+      "address": "Yamada-17 Uji, Kyoto 611-0021日本",
+      "parking": "",
+      "road": "",
+      "notes": "宇治一日遊",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81d8-b49a-d02b3a75bd09",
+      "name": "宇治橋",
+      "region": "京都府",
+      "types": [
+        "自然",
+        "文化"
+      ],
+      "address": "Uji, Kyoto 611-0021日本",
+      "parking": "",
+      "road": "",
+      "notes": "宇治一日遊",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81d8-bf0a-dfcf46d28212",
+      "name": "鬪雞神社",
+      "region": "和歌山縣",
+      "types": [
+        "銀杏",
+        "神社"
+      ],
+      "address": "1-1 Toyo, Tanabe, Wakayama 646-0029日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81d9-9030-e5d6295b5350",
+      "name": "八大神社",
+      "region": "京都府",
+      "types": [
+        "文化",
+        "寺廟"
+      ],
+      "address": "1 Ichijoji Matsubaracho, Sakyo Ward, Kyoto, 606-8156日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81db-a58c-ce21374491fc",
+      "name": "廬山寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "397 Kitanobecho, Kamigyo Ward, Kyoto, 602-0852日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81dc-9992-ed64f743f798",
+      "name": "百濟寺",
+      "region": "滋賀縣",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "323 Hyakusaijicho, Higashiomi, Shiga 527-0144日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81dc-bfc1-d119bde00b62",
+      "name": "岩戸落葉神社",
+      "region": "京都府",
+      "types": [
+        "銀杏",
+        "神社"
+      ],
+      "address": "170 Onoiwato, Kita Ward, Kyoto, 601-0134日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81de-8f0f-f1d507eec193",
+      "name": "慧光寺の大銀杏",
+      "region": "京都府",
+      "types": [
+        "銀杏",
+        "寺廟"
+      ],
+      "address": "8453 602 Sasayacho 1chome, Kamigyo Ward, Kyoto, 602-8453日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81de-b40d-fdcc64d9420e",
+      "name": "鞍馬寺",
+      "region": "京都府",
+      "types": [
+        "寺廟"
+      ],
+      "address": "1074 Kuramahonmachi, Sakyo Ward, Kyoto, 601-1111日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81df-8b69-e88f43d7a574",
+      "name": "東山山頂公園 展望台",
+      "region": "京都府",
+      "types": [
+        "自然"
+      ],
+      "address": "Awadaguchi Kodaiji Yamacho, Higashiyama Ward, Kyoto, 605-0000日本",
+      "parking": "",
+      "road": "",
+      "notes": "京都夜景",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81e1-91e1-e721281f7575",
+      "name": "祇王寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "32 Sagatoriimoto Kozakacho, Ukyo Ward, Kyoto, 616-8435日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81e2-9f58-ddd1f8339343",
+      "name": "元離宮二条城",
+      "region": "京都府",
+      "types": [
+        "城堡"
+      ],
+      "address": "541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81e3-8975-f47f9bf513d4",
+      "name": "貴船神社",
+      "region": "京都府",
+      "types": [
+        "神社",
+        "賞楓"
+      ],
+      "address": "180 Kuramakibunecho, Sakyo Ward, Kyoto, 601-1112日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81e3-9941-dcb48fa97985",
+      "name": "元嶋神社 鳥居",
+      "region": "和歌山縣",
+      "types": [
+        "自然",
+        "神社"
+      ],
+      "address": "23 Mera, Tanabe, Wakayama 646-0058日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81e3-afd9-e7ea46a25b6c",
+      "name": "神護寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "5 Umegahata Takaocho, Ukyo Ward, Kyoto, 616-8292日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81e7-82c3-cfbc964046d4",
+      "name": "お蛇浦海岸",
+      "region": "和歌山縣",
+      "types": [
+        "自然"
+      ],
+      "address": "Katsuura, Nachikatsuura, Higashimuro District, Wakayama 649-5334日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81e7-aad2-dec4520ab322",
+      "name": "平等院表參道",
+      "region": "京都府",
+      "types": [
+        "文化"
+      ],
+      "address": "Renge Uji, Kyoto 611-0021日本",
+      "parking": "",
+      "road": "",
+      "notes": "宇治一日遊",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81e9-936a-e51ef8189d65",
+      "name": "詩仙堂",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "27 Ichijoji Monguchicho, Sakyo Ward, Kyoto, 606-8154日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ea-8204-c422b7e12d2b",
+      "name": "延曆寺",
+      "region": "滋賀縣",
+      "types": [
+        "寺廟"
+      ],
+      "address": "4220 Sakamotohonmachi, Otsu, Shiga 520-0116日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81eb-9021-f79f240fb323",
+      "name": "妙覺寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "135 Shimoseizoguchicho, Kamigyo Ward, Kyoto, 602-0007日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ec-8d00-de55cdcb35f5",
+      "name": "常照寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒603-8468 Kyoto, Kita Ward, Takagamine Kitatakaminecho, １",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ec-b063-f0263e01cc6f",
+      "name": "賀茂御祖神社(下鴨神社)",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "神社"
+      ],
+      "address": "日本〒606-0807 Kyoto, Sakyo Ward, Shimogamo Izumikawacho, ５９",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ed-8874-d59ef85503f5",
+      "name": "円月島",
+      "region": "和歌山縣",
+      "types": [
+        "自然"
+      ],
+      "address": "M8RP+3H, Shirahama, Nishimuro District, Wakayama 649-2211日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ed-8d3a-c5e8580d73b3",
+      "name": "寶泉院",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "神社"
+      ],
+      "address": "187 Oharashorinincho, Sakyo Ward, Kyoto, 601-1241日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ed-98a5-caffd0e555e5",
+      "name": "上賀茂神社",
+      "region": "京都府",
+      "types": [
+        "神社"
+      ],
+      "address": "339 Kamigamo Motoyama, Kita Ward, Kyoto, 603-8047日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ef-933c-d6ed7f66995c",
+      "name": "建部大社",
+      "region": "滋賀縣",
+      "types": [
+        "神社"
+      ],
+      "address": "1 Chome-16-1 Jinryo, Otsu, Shiga 520-2132日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81f0-b918-fba89e991c58",
+      "name": "西院春日神社",
+      "region": "京都府",
+      "types": [
+        "神社"
+      ],
+      "address": "日本〒615-0015 Kyoto, Ukyo Ward, Saiinkasugacho, ６１",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81f2-90d5-d309a281baf1",
+      "name": "白鹿背山 巨徳院 東光寺",
+      "region": "滋賀縣",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "718 Hiraocho, Higashiomi, Shiga 527-0153日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81f2-b640-ead00e92c274",
+      "name": "六道珍皇寺",
+      "region": "京都府",
+      "types": [
+        "文化",
+        "寺廟"
+      ],
+      "address": "595 Komatsucho, Higashiyama Ward, Kyoto, 605-0811日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81f2-bcc4-d3130b1b8243",
+      "name": "矢宮神社",
+      "region": "和歌山縣",
+      "types": [
+        "神社"
+      ],
+      "address": "1 Chome-5-27 Sekido, Wakayama, 641-0035日本",
+      "parking": "",
+      "road": "",
+      "notes": "雜賀眾",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81f3-b491-d4f78b2b1391",
+      "name": "常照皇寺",
+      "region": "京都府",
+      "types": [
+        "寺廟"
+      ],
+      "address": "Maruyama-14-6 Keihokuidocho, Ukyo Ward, Kyoto, 601-0313日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81f4-9235-d371662415fb",
+      "name": "金戒光明寺",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "121 Kurodanicho, Sakyo Ward, Kyoto, 606-8331日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81f4-97d6-d5a637137101",
+      "name": "北野天滿宮",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "神社"
+      ],
+      "address": "Bakurocho, Kamigyo Ward, Kyoto, 602-8386日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81fc-8d02-f38d8745af91",
+      "name": "鍬山神社",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "神社"
+      ],
+      "address": "Kamigaichi-22-2 Kamiyadacho, Kameoka, Kyoto 621-0856日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81fd-9594-c9df9b5f0df9",
+      "name": "立木山 安養寺(立木觀音)",
+      "region": "滋賀縣",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "日本〒520-0865 Shiga, Otsu, Ishiyamanangocho, 奥山1231",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81fd-a1cf-c78cb4dd6df3",
+      "name": "東寺(教王護國寺)",
+      "region": "京都府",
+      "types": [
+        "賞楓",
+        "寺廟"
+      ],
+      "address": "1 Kujocho, Minami Ward, Kyoto, 601-8473日本",
+      "parking": "",
+      "road": "",
+      "notes": "夜楓",
+      "fee": "",
+      "duration": null,
+      "date": null
+    },
+    {
+      "id": "40baaca0-78ff-81ff-9ccc-fac81fc073c7",
+      "name": "タイムズ西院乾町",
+      "region": "京都府",
+      "types": [
+        "停車場"
+      ],
+      "address": "55 Saiininuicho, Ukyo Ward, Kyoto, 615-0061日本",
+      "parking": "",
+      "road": "",
+      "notes": "",
+      "fee": "",
+      "duration": null,
+      "date": null
+    }
+  ]
+}
