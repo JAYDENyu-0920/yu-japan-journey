@@ -257,5 +257,327 @@
     "label": "知恩院",
     "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
     "address": "400 Rinkacho, Higashiyama Ward, Kyoto, 605-8686日本"
+  },
+  "40baaca0-78ff-8182-9add-e369510e78be": {
+    "lat": 35.0105939,
+    "lng": 135.7936318,
+    "label": "水路閣",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "Nanzenji Furoyamacho, Sakyo Ward, Kyoto, 606-0000日本"
+  },
+  "40baaca0-78ff-8186-89b7-daa4bc7fbae1": {
+    "lat": 34.8212302,
+    "lng": 135.7579453,
+    "label": "酬恩庵",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "102 Takigisatonouchi, Kyotanabe, Kyoto 610-0341日本"
+  },
+  "40baaca0-78ff-818c-81e4-c543091061ec": {
+    "lat": 34.9906151,
+    "lng": 135.687189,
+    "label": "地蔵院",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "日本〒615-8285 Kyoto, Nishikyo Ward, Yamadakitanocho, ２３−23"
+  },
+  "40baaca0-78ff-818c-a3fc-f5683d2dea9a": {
+    "lat": 33.7322978,
+    "lng": 135.9836823,
+    "label": "熊野速玉大社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "1番地 Shingu, Wakayama 647-0081日本"
+  },
+  "40baaca0-78ff-818c-b502-f75a645467a6": {
+    "lat": 35.0449754,
+    "lng": 135.7973054,
+    "label": "円光寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "13 Ichijoji Kotanicho, Sakyo Ward, Kyoto, 606-8147日本"
+  },
+  "40baaca0-78ff-8190-bc4d-e82f313baa9d": {
+    "lat": 35.2745787,
+    "lng": 136.0111351,
+    "label": "白鬚神社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "215 Ukawa, Takashima, Shiga 520-1122日本"
+  },
+  "40baaca0-78ff-8197-9646-c6b0c83e2bd5": {
+    "lat": 35.0455957,
+    "lng": 135.7421309,
+    "label": "今宮神社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "21 Murasakino Imamiyacho, Kita Ward, Kyoto, 603-8243日本"
+  },
+  "40baaca0-78ff-819e-8a64-d6fbf222decb": {
+    "lat": 35.0252635,
+    "lng": 135.7623445,
+    "label": "京都御所",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "内 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0811日本"
+  },
+  "40baaca0-78ff-81a1-a469-cb5bdd1d26d7": {
+    "lat": 35.0236934,
+    "lng": 135.6744792,
+    "label": "清凉寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "日本〒616-8447 Kyoto, Ukyo Ward, Sagashakadofujinokicho, ４６"
+  },
+  "40baaca0-78ff-81a4-8864-d04a8ff0779f": {
+    "lat": 35.009751,
+    "lng": 135.8556754,
+    "label": "長等神社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "4-1 Miideracho, Otsu, Shiga 520-0034日本"
+  },
+  "40baaca0-78ff-81a6-91cf-f859677a2208": {
+    "lat": 34.2893585,
+    "lng": 135.5200242,
+    "label": "丹生酒殿神社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "631 Mitani, Katsuragi, Ito District, Wakayama 649-7133日本"
+  },
+  "40baaca0-78ff-81a8-8fb8-dbab0c148876": {
+    "lat": 35.0327942,
+    "lng": 135.7619333,
+    "label": "相国寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "日本〒602-0898 Kyoto, Kamigyo Ward, Sokokuji Monzencho, 701"
+  },
+  "40baaca0-78ff-81aa-83f3-f5002cb9887e": {
+    "lat": 33.8285044,
+    "lng": 135.6341448,
+    "label": "継桜王子",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "Nakahechicho Nonaka, Tanabe, Wakayama 646-1401日本"
+  },
+  "40baaca0-78ff-81ab-96f7-f062513ae67e": {
+    "lat": 34.9441809,
+    "lng": 135.7001897,
+    "label": "向日神社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "Kitayama-65 Mukocho, Muko, Kyoto 617-0005日本"
+  },
+  "40baaca0-78ff-81af-b748-d4d8d9228b93": {
+    "lat": 33.5951652,
+    "lng": 135.9618521,
+    "label": "燈明崎",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "Taiji, Higashimuro District, Wakayama 649-5171日本"
+  },
+  "40baaca0-78ff-81b2-93bc-f148082cbf0f": {
+    "lat": 34.9798442,
+    "lng": 135.7811323,
+    "label": "今熊野観音寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "日本〒605-0977 Kyoto, Higashiyama Ward, Sennyuji Yamanouchicho, ３２"
+  },
+  "40baaca0-78ff-81b7-a043-dc9e4fdd0bf7": {
+    "lat": 35.0342319,
+    "lng": 135.6773957,
+    "label": "直指庵",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "3 Kitasaga Kitanodancho, Ukyo Ward, Kyoto, 616-8441日本"
+  },
+  "40baaca0-78ff-81b9-b8a0-c1b090107fab": {
+    "lat": 35.1186119,
+    "lng": 135.8376707,
+    "label": "来迎院",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "537 Ohararaikoincho, Sakyo Ward, Kyoto, 601-1242日本"
+  },
+  "40baaca0-78ff-81ba-aff0-dcdc0f067952": {
+    "lat": 33.7905129,
+    "lng": 135.896709,
+    "label": "熊野川川舟センター",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "54-8 Kumanogawacho Tanago, Shingu, Wakayama 647-1211日本"
+  },
+  "40baaca0-78ff-81bc-a161-e09f23c68593": {
+    "lat": 34.9384117,
+    "lng": 135.7770058,
+    "label": "伏見桃山城",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "45 Momoyamacho Okura, Fushimi Ward, Kyoto, 612-0853日本"
+  },
+  "40baaca0-78ff-81ca-b828-eb0949549a69": {
+    "lat": 35.0169898,
+    "lng": 135.6856833,
+    "label": "鹿王院",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "24 Sagakitaboricho, Ukyo Ward, Kyoto, 616-8367日本"
+  },
+  "40baaca0-78ff-81d4-9474-cbf5f8956856": {
+    "lat": 35.0411881,
+    "lng": 135.8019778,
+    "label": "狸谷山不動院",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "6 Ichijoji Matsubaracho, Sakyo Ward, Kyoto, 606-8156日本"
+  },
+  "40baaca0-78ff-81d7-88d3-e68ed0a99095": {
+    "lat": 34.2872227,
+    "lng": 135.3165793,
+    "label": "根来寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "2286 Negoro, Iwade, Wakayama 649-6202日本"
+  },
+  "40baaca0-78ff-81d8-9bd8-d056de277f4d": {
+    "lat": 34.8889202,
+    "lng": 135.8113159,
+    "label": "観流橋",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "Yamada-17 Uji, Kyoto 611-0021日本"
+  },
+  "40baaca0-78ff-81d8-b49a-d02b3a75bd09": {
+    "lat": 34.8932422,
+    "lng": 135.8066386,
+    "label": "宇治橋",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "Uji, Kyoto 611-0021日本"
+  },
+  "40baaca0-78ff-81d9-9030-e5d6295b5350": {
+    "lat": 35.0436719,
+    "lng": 135.7966529,
+    "label": "八大神社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "1 Ichijoji Matsubaracho, Sakyo Ward, Kyoto, 606-8156日本"
+  },
+  "40baaca0-78ff-81db-a58c-ce21374491fc": {
+    "lat": 35.0245535,
+    "lng": 135.7682902,
+    "label": "廬山寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "397 Kitanobecho, Kamigyo Ward, Kyoto, 602-0852日本"
+  },
+  "40baaca0-78ff-81dc-9992-ed64f743f798": {
+    "lat": 35.1268273,
+    "lng": 136.2915123,
+    "label": "百済寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "323 Hyakusaijicho, Higashiomi, Shiga 527-0144日本"
+  },
+  "40baaca0-78ff-81dc-bfc1-d119bde00b62": {
+    "lat": 35.1133779,
+    "lng": 135.6743336,
+    "label": "岩戸落葉神社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "170 Onoiwato, Kita Ward, Kyoto, 601-0134日本"
+  },
+  "40baaca0-78ff-81de-b40d-fdcc64d9420e": {
+    "lat": 35.1178737,
+    "lng": 135.770652,
+    "label": "鞍馬寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "1074 Kuramahonmachi, Sakyo Ward, Kyoto, 601-1111日本"
+  },
+  "40baaca0-78ff-81df-8b69-e88f43d7a574": {
+    "lat": 35.0001227,
+    "lng": 135.7875516,
+    "label": "東山山頂公園 展望台",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "Awadaguchi Kodaiji Yamacho, Higashiyama Ward, Kyoto, 605-0000日本"
+  },
+  "40baaca0-78ff-81e1-91e1-e721281f7575": {
+    "lat": 35.0235169,
+    "lng": 135.6668006,
+    "label": "祇王寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "32 Sagatoriimoto Kozakacho, Ukyo Ward, Kyoto, 616-8435日本"
+  },
+  "40baaca0-78ff-81e2-9f58-ddd1f8339343": {
+    "lat": 35.0127308,
+    "lng": 135.7506356,
+    "label": "元離宮二条城",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301日本"
+  },
+  "40baaca0-78ff-81e3-8975-f47f9bf513d4": {
+    "lat": 35.1218892,
+    "lng": 135.7629362,
+    "label": "貴船神社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "180 Kuramakibunecho, Sakyo Ward, Kyoto, 601-1112日本"
+  },
+  "40baaca0-78ff-81e3-9941-dcb48fa97985": {
+    "lat": 33.7327245,
+    "lng": 135.3516843,
+    "label": "元嶋神社 鳥居",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "23 Mera, Tanabe, Wakayama 646-0058日本"
+  },
+  "40baaca0-78ff-81e3-afd9-e7ea46a25b6c": {
+    "lat": 35.054476,
+    "lng": 135.6699923,
+    "label": "神護寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "5 Umegahata Takaocho, Ukyo Ward, Kyoto, 616-8292日本"
+  },
+  "40baaca0-78ff-81ec-8d00-de55cdcb35f5": {
+    "lat": 35.0552487,
+    "lng": 135.7328268,
+    "label": "常照寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "日本〒603-8468 Kyoto, Kita Ward, Takagamine Kitatakaminecho, １"
+  },
+  "40baaca0-78ff-81ec-b063-f0263e01cc6f": {
+    "lat": 35.0317531,
+    "lng": 135.7722628,
+    "label": "賀茂御祖神社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "日本〒606-0807 Kyoto, Sakyo Ward, Shimogamo Izumikawacho, ５９"
+  },
+  "40baaca0-78ff-81ed-8d3a-c5e8580d73b3": {
+    "lat": 35.1213608,
+    "lng": 135.8326856,
+    "label": "宝泉院",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "187 Oharashorinincho, Sakyo Ward, Kyoto, 601-1241日本"
+  },
+  "40baaca0-78ff-81ed-98a5-caffd0e555e5": {
+    "lat": 35.0604683,
+    "lng": 135.7522589,
+    "label": "上賀茂神社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "339 Kamigamo Motoyama, Kita Ward, Kyoto, 603-8047日本"
+  },
+  "40baaca0-78ff-81ef-933c-d6ed7f66995c": {
+    "lat": 34.9729559,
+    "lng": 135.9107836,
+    "label": "建部大社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "1 Chome-16-1 Jinryo, Otsu, Shiga 520-2132日本"
+  },
+  "40baaca0-78ff-81f2-b640-ead00e92c274": {
+    "lat": 34.998384,
+    "lng": 135.7754064,
+    "label": "六道珍皇寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "595 Komatsucho, Higashiyama Ward, Kyoto, 605-0811日本"
+  },
+  "40baaca0-78ff-81f4-9235-d371662415fb": {
+    "lat": 35.0194851,
+    "lng": 135.7886067,
+    "label": "金戒光明寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "121 Kurodanicho, Sakyo Ward, Kyoto, 606-8331日本"
+  },
+  "40baaca0-78ff-81fc-8d02-f38d8745af91": {
+    "lat": 34.9976674,
+    "lng": 135.5783015,
+    "label": "鍬山神社",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "Kamigaichi-22-2 Kamiyadacho, Kameoka, Kyoto 621-0856日本"
+  },
+  "40baaca0-78ff-81fd-a1cf-c78cb4dd6df3": {
+    "lat": 34.9806311,
+    "lng": 135.7477192,
+    "label": "東寺",
+    "source": "OpenStreetMap / Photon（名稱及地址區域比對）",
+    "address": "1 Kujocho, Minami Ward, Kyoto, 601-8473日本"
+  },
+  "40baaca0-78ff-81ed-8874-d59ef85503f5": {
+    "lat": 33.690059,
+    "lng": 135.3364589,
+    "label": "円月島(高嶋)",
+    "address": "M8RP+3H, Shirahama, Nishimuro District, Wakayama 649-2211日本",
+    "source": "OpenStreetMap / Photon（円月島・白浜町を照合）"
   }
 }
