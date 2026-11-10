@@ -1,0 +1,4 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {normalize} from '../scripts/normalize.mjs';
+const row={id:'id',景點名稱:'景點',地區:'和歌山縣','Google Maps':'Shingu, Wakayama, Japan',景點類型:'["自然"]'};
+test('publishes only matching verified prefecture addresses',()=>{assert.equal(normalize(row).region,'和歌山縣');assert.equal(normalize({...row,'Google Maps':'Totsukawa, Nara, Japan'}),null);assert.equal(normalize({...row,地區:'京都府'}),null);assert.equal(normalize({...row,'Google Maps':''}),null)});
+test('preserves stable IDs, dates and user fields without extra properties',()=>{const s=normalize({...row,'date:參觀日期:start':'2026-11-20',停車資訊:'P',secret:'never publish'});assert.equal(s.id,'id');assert.equal(s.date,'2026-11-20');assert.equal(s.parking,'P');assert.equal(s.secret,undefined)});
