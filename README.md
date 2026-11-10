@@ -1,4 +1,4 @@
-# Yu's Japan Journey V1.0
+# Yu's Japan Journey V1.1
 
 2026/11/20–11/30 近畿自駕旅遊 PWA。網站：https://jaydenyu-0920.github.io/yu-japan-journey/
 
@@ -29,3 +29,9 @@ node scripts/serve.mjs
 預覽 http://127.0.0.1:4173 。GitHub Settings → Pages → Source 選 GitHub Actions。`.github/workflows/pages.yml` 建置 dist 並發布。更新靜態資產後需更新 `sw.js` 快取版本。
 
 即時天氣、路況及車程計算未包含於 V1.0，停留時數不含開車時間。
+
+## V1.1 互動地圖
+
+旅遊地圖可同時顯示每日行程、收藏、自選或所有已定位景點。自選可勾選及調整順序，再加入指定日期行程。編號依所選順序排列；虛線僅為順序示意，按「計算自駕路線」取得 OSRM 道路路線、距離與預估行車時間（不含路況與停留）。單次最多 20 站，缺少位置時須先定位。Google Maps 導航依手機可用的中途點數分段，每段最多 5 站。
+
+底圖及景點來源 OpenStreetMap，元件 Leaflet 1.9.4（授權見 LEAFLET-LICENSE.txt），位置搜尋 Photon。預載位置比對來源名稱及郵遞區號；來源地址變更時不再沿用舊座標。待定位項目可搜尋候選位置並核對，或直接點地圖指定。個人校正與自選清單僅存在目前裝置，不在原行程備份內。地圖、搜尋和道路服務需要網路，服務不可用時會顯示提示，不以直線假裝道路路線。
