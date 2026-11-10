@@ -579,5 +579,12 @@
     "label": "円月島(高嶋)",
     "address": "M8RP+3H, Shirahama, Nishimuro District, Wakayama 649-2211日本",
     "source": "OpenStreetMap / Photon（円月島・白浜町を照合）"
+  },
+  "40baaca0-78ff-8144-a96b-cee1a8b1be5d": {
+    "lat": 34.2017081,
+    "lng": 135.2500369,
+    "label": "伊太祁曽神社",
+    "address": "558 Idakiso, Wakayama, 640-0361日本",
+    "source": "OpenStreetMap / Photon（伊太祁曽神社・和歌山市を照合）"
   }
 }
