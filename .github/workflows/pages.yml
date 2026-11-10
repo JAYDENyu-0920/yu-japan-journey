@@ -1,0 +1,64 @@
+name: Publish journey
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '7,37 * * * *'
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Restore last successful Notion snapshot
+        uses: actions/cache/restore@v4
+        with:
+          path: .sync-cache
+          key: notion-snapshot-${{ github.run_id }}
+          restore-keys: notion-snapshot-
+      - name: Use previous successful snapshot
+        run: if [ -f .sync-cache/spots.json ]; then cp .sync-cache/spots.json data/spots.json; fi
+      - name: Sync Notion
+        id: sync
+        continue-on-error: true
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATA_SOURCE_ID: aa8a9edf-36bc-4c02-bd9c-ca69fd457b2f
+        run: node scripts/sync-notion.mjs
+      - name: Preserve successful snapshot
+        if: steps.sync.outcome == 'success'
+        run: mkdir -p .sync-cache && cp data/spots.json .sync-cache/spots.json
+      - uses: actions/cache/save@v4
+        if: steps.sync.outcome == 'success'
+        with:
+          path: .sync-cache
+          key: notion-snapshot-${{ github.run_id }}
+      - name: Report sync state
+        if: steps.sync.outcome == 'failure'
+        run: echo '::warning::Notion sync unavailable. Publishing last successful snapshot. Configure NOTION_TOKEN to enable updates.'
+      - run: npm test
+      - run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
