@@ -1,0 +1,8 @@
+import {initCloudSync} from './cloud-sync.js';
+import {validSnapshot} from './cloud-sync-core.js';
+// Deferred integration: call only after the backend and public config are verified.
+export function buildSnapshot(trip,storage=localStorage){let selected=[],positions={};try{selected=JSON.parse(storage.getItem('yu-map-selected')||'[]');positions=JSON.parse(storage.getItem('yu-map-positions')||'{}')}catch{}return{schemaVersion:1,trip:structuredClone({favorites:trip.favorites,visited:trip.visited,days:trip.days,customSpots:trip.customSpots||[]}),map:{selected,positions}}}
+export function connectCloudToJourney(ctx,{config,createClient,storage=localStorage}){
+ const read=()=>buildSnapshot(ctx.readTrip(),storage);
+ return initCloudSync({read,backup:async p=>{if(!validSnapshot(p))throw Error('Cannot preserve invalid local snapshot');let history=[];try{history=JSON.parse(storage.getItem('yu-sync-recovery')||'[]')}catch{}history.unshift({savedAt:new Date().toISOString(),snapshot:p});storage.setItem('yu-sync-recovery',JSON.stringify(history.slice(0,3)))},apply:async p=>{if(!validSnapshot(p))throw Error('Invalid cloud snapshot');const before=read();try{storage.setItem('yu-map-selected',JSON.stringify(p.map.selected));storage.setItem('yu-map-positions',JSON.stringify(p.map.positions));await ctx.applyTrip(structuredClone(p.trip));ctx.refreshMapLocal?.()}catch(error){storage.setItem('yu-map-selected',JSON.stringify(before.map.selected));storage.setItem('yu-map-positions',JSON.stringify(before.map.positions));await ctx.applyTrip(before.trip);ctx.refreshMapLocal?.();throw error}}},{config,createClient});
+}
