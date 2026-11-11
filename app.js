@@ -1,4 +1,4 @@
-import {initTravelDetails,validTravelDay} from './travel-details.js';
+import {initTravelDetails,validTravelDay} from './travel-details.js?v=1.5.2';
 import {validSnapshot} from './cloud-sync-core.js';
 import {connectCloudToJourney,buildSnapshot} from './cloud-bridge.js';
 import {initExternalSearch,validCustom} from './external-search.js';
