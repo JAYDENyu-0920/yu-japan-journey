@@ -1,0 +1,2445 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-13T12:34:18.487Z",
+  "sources": [
+    {
+      "id": "jr-A1004",
+      "provider": "JR 西日本・紅葉だより",
+      "region": "滋賀縣",
+      "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1004?lang=ja",
+      "adapter": "jr",
+      "state": "ok",
+      "checkedAt": "2026-11-13T12:34:18.487Z",
+      "lastSuccessAt": "2026-11-13T12:34:18.487Z"
+    },
+    {
+      "id": "jr-A1005",
+      "provider": "JR 西日本・紅葉だより",
+      "region": "京都府",
+      "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005?lang=ja",
+      "adapter": "jr",
+      "state": "ok",
+      "checkedAt": "2026-11-13T12:34:18.487Z",
+      "lastSuccessAt": "2026-11-13T12:34:18.487Z"
+    },
+    {
+      "id": "jr-A1006",
+      "provider": "JR 西日本・紅葉だより",
+      "region": "大阪府",
+      "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1006?lang=ja",
+      "adapter": "jr",
+      "state": "ok",
+      "checkedAt": "2026-11-13T12:34:18.487Z",
+      "lastSuccessAt": "2026-11-13T12:34:18.487Z"
+    },
+    {
+      "id": "jr-A1009",
+      "provider": "JR 西日本・紅葉だより",
+      "region": "和歌山縣",
+      "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1009?lang=ja",
+      "adapter": "jr",
+      "state": "ok",
+      "checkedAt": "2026-11-13T12:34:18.487Z",
+      "lastSuccessAt": "2026-11-13T12:34:18.487Z"
+    },
+    {
+      "id": "wakayama-tourism",
+      "provider": "和歌山縣官方觀光",
+      "region": "和歌山縣",
+      "url": "https://www.wakayama-kanko.or.jp/events/detail_3876.html",
+      "adapter": "wakayama",
+      "state": "ok",
+      "checkedAt": "2026-11-13T12:34:18.487Z",
+      "lastSuccessAt": "2026-11-13T12:34:18.487Z"
+    },
+    {
+      "id": "wn-kyoto",
+      "provider": "Weathernews",
+      "region": "京都府",
+      "url": "https://weathernews.jp/koyo/area/kyoto/",
+      "adapter": "weathernews",
+      "state": "ok",
+      "checkedAt": "2026-11-13T12:34:18.487Z",
+      "lastSuccessAt": "2026-11-13T12:34:18.487Z"
+    },
+    {
+      "id": "wn-osaka",
+      "provider": "Weathernews",
+      "region": "大阪府",
+      "url": "https://weathernews.jp/koyo/area/osaka/",
+      "adapter": "weathernews",
+      "state": "ok",
+      "checkedAt": "2026-11-13T12:34:18.487Z",
+      "lastSuccessAt": "2026-11-13T12:34:18.487Z"
+    },
+    {
+      "id": "wn-shiga",
+      "provider": "Weathernews",
+      "region": "滋賀縣",
+      "url": "https://weathernews.jp/koyo/area/shiga/",
+      "adapter": "weathernews",
+      "state": "ok",
+      "checkedAt": "2026-11-13T12:34:18.487Z",
+      "lastSuccessAt": "2026-11-13T12:34:18.487Z"
+    },
+    {
+      "id": "wn-wakayama",
+      "provider": "Weathernews",
+      "region": "和歌山縣",
+      "url": "https://weathernews.jp/koyo/area/wakayama/",
+      "adapter": "weathernews",
+      "state": "ok",
+      "checkedAt": "2026-11-13T12:34:18.487Z",
+      "lastSuccessAt": "2026-11-13T12:34:18.487Z"
+    }
+  ],
+  "places": [
+    {
+      "id": "wn-26201",
+      "name": "牛滝山",
+      "region": "大阪府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.371911,
+        "lng": 135.44798,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "大阪府岸和田市大沢町",
+      "reports": [
+        {
+          "sourceId": "wn-osaka",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26201/",
+          "phase": "green",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-27",
+          "typical": "11月下旬"
+        },
+        {
+          "sourceId": "jr-A1006",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1006/pastinfo/30351?lang=ja",
+          "phase": "green",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": "40baaca0-78ff-817a-b530-dcf00c845cef"
+    },
+    {
+      "id": "wn-26207",
+      "name": "大阪城公園",
+      "region": "大阪府",
+      "trees": [
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 34.686822,
+        "lng": 135.528735,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "大阪府大阪市中央区大阪城",
+      "reports": [
+        {
+          "sourceId": "wn-osaka",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26207/",
+          "phase": "peak",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-12",
+          "typical": "11月中旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1006",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1006/pastinfo/36600?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26215",
+      "name": "大阪府営大泉緑地",
+      "region": "大阪府",
+      "trees": [
+        "maple",
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 34.5664741091746,
+        "lng": 135.524559617043,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "大阪府堺市北区金岡町128",
+      "reports": [
+        {
+          "sourceId": "wn-osaka",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26215/",
+          "phase": "turning",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-24",
+          "typical": "11月中旬〜12月上旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26210",
+      "name": "大阪府立花の文化園",
+      "region": "大阪府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.435111,
+        "lng": 135.553227,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "大阪府河内長野市高向2292-1",
+      "reports": [
+        {
+          "sourceId": "wn-osaka",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26210/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-24",
+          "typical": "11月中旬〜12月上旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26223",
+      "name": "大仙公園日本庭園",
+      "region": "大阪府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.560012,
+        "lng": 135.480597,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "大阪府堺市堺区大仙中町(大仙公園内)",
+      "reports": [
+        {
+          "sourceId": "wn-osaka",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26223/",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-23",
+          "typical": "11月下旬12月初旬"
+        },
+        {
+          "sourceId": "jr-A1006",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1006/pastinfo/36672?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26211",
+      "name": "長野公園(延命寺地区)",
+      "region": "大阪府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.42495,
+        "lng": 135.594045,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "大阪府河内長野市神ケ丘492",
+      "reports": [
+        {
+          "sourceId": "wn-osaka",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26211/",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-27",
+          "typical": "11月下旬〜12月上旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26203",
+      "name": "能勢",
+      "region": "大阪府",
+      "trees": [
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 34.97576,
+        "lng": 135.467842,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "大阪府豊能郡能勢町倉垣989",
+      "reports": [
+        {
+          "sourceId": "wn-osaka",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26203/",
+          "phase": "turning",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-18",
+          "typical": "11月中旬〜12月上旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26205",
+      "name": "万博記念公園",
+      "region": "大阪府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.808356,
+        "lng": 135.53253,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "大阪府吹田市千里万博公園",
+      "reports": [
+        {
+          "sourceId": "wn-osaka",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26205/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-22",
+          "typical": "11月上旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1006",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1006/pastinfo/30352?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26202",
+      "name": "明治の森箕面国定公園",
+      "region": "大阪府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.849623,
+        "lng": 135.472176,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "大阪府箕面市箕面公園",
+      "reports": [
+        {
+          "sourceId": "wn-osaka",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26202/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-21",
+          "typical": "11月中旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1006",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1006/pastinfo/30350?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26191",
+      "name": "あだし野念仏寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.026968,
+        "lng": 135.665582,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都市右京区嵯峨鳥居本化野町17 ",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26191/",
+          "phase": "unknown",
+          "reportedAt": null,
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": "11月中旬～下旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26101",
+      "name": "嵐山",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.015129149078,
+        "lng": 135.677420854699,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市右京区嵯峨天龍寺芒ノ馬場町40",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26101/",
+          "phase": "turning",
+          "reportedAt": "2026-11-08",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-23",
+          "typical": "11月下旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36562?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26171",
+      "name": "安国寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.341122,
+        "lng": 135.307199,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府綾部市安国寺町寺ノ段1",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26171/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-21",
+          "typical": "11月上旬～11月下旬 "
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36679?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26182",
+      "name": "今熊野観音寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.97979,
+        "lng": 135.781177,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市東山区泉涌寺山内町32",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26182/",
+          "phase": "turning",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-23",
+          "typical": "11月中旬～12月初旬"
+        }
+      ],
+      "notionId": "40baaca0-78ff-81b2-93bc-f148082cbf0f"
+    },
+    {
+      "id": "wn-26128",
+      "name": "石清水八幡宮",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.879676,
+        "lng": 135.700042,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府八幡市高坊30",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26128/",
+          "phase": "green",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-29",
+          "typical": "11月下旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/30811?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26198",
+      "name": "宇治市植物公園",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.871276,
+        "lng": 135.795007,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府宇治市広野町八軒屋谷25-1",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26198/",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-23",
+          "typical": "11月下旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26172",
+      "name": "梅小路公園",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.9867611429793,
+        "lng": 135.7448387146,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市下京区観喜寺町56-3",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26172/",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-27",
+          "typical": "11月中旬～12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/30826?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26120",
+      "name": "永観堂禅林寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.014129,
+        "lng": 135.794985,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市左京区永観堂町48",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26120/",
+          "phase": "turning",
+          "reportedAt": "2026-11-09",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-24",
+          "typical": "11月中旬〜11月下旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36558?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-16114",
+      "name": "叡山電車　もみじのトンネル",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.094613,
+        "lng": 135.765588,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市左京区　叡山電車鞍馬線市原駅～二ノ瀬駅間",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/16114/",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": "11月中旬～11月下旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26109",
+      "name": "大江山",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.453499,
+        "lng": 135.106387,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府福知山市大江町仏性寺・北原",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26109/",
+          "phase": "unknown",
+          "reportedAt": null,
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": "11月上旬〜11月下旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-16113",
+      "name": "大野ダム公園",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.2646305930937,
+        "lng": 135.460213422775,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府南丹市美山町樫原",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/16113/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": "11月上旬～11月下旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26103",
+      "name": "大原三千院",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.119726,
+        "lng": 135.834406,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市左京区大原来迎院町540",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26103/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-22",
+          "typical": "11月中旬〜11月下旬"
+        }
+      ],
+      "notionId": "40baaca0-78ff-810d-b542-e02dde6f56f5"
+    },
+    {
+      "id": "wn-26178",
+      "name": "勧修寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.961354,
+        "lng": 135.807613,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市山科区勧修寺仁王堂町27-6",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26178/",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-24",
+          "typical": "11月下旬～12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36557?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26132",
+      "name": "北野天満宮",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.031206,
+        "lng": 135.735124,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都市上京区馬喰町",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26132/",
+          "phase": "turning",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-25",
+          "typical": "11月中旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/30757?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26140",
+      "name": "京都御苑(凝華洞跡の大イチョウ)",
+      "region": "京都府",
+      "trees": [
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 35.024143,
+        "lng": 135.762141,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市上京区京都御苑３",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26140/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "ginkgo",
+          "forecastAt": "2026-11-27",
+          "typical": "11月下旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26110",
+      "name": "京都府立笠置山自然公園",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.753469,
+        "lng": 135.941509,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府相楽郡笠置町笠置山",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26110/",
+          "phase": "turning",
+          "reportedAt": "2026-11-09",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-21",
+          "typical": "11月中旬〜11月下旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26157",
+      "name": "京都府立植物園",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.048742,
+        "lng": 135.762734,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市左京区下鴨半木町",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26157/",
+          "phase": "turning",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-27",
+          "typical": "11月中旬～12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36568?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26112",
+      "name": "清水寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.994883,
+        "lng": 135.785007,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市東山区清水1-294",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26112/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-25",
+          "typical": "11月下旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36567?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26133",
+      "name": "祇王寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.0234334677645,
+        "lng": 135.666904449456,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都市右京区嵯峨鳥居本小坂町32",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26133/",
+          "phase": "turning",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-27",
+          "typical": "11月下旬～12月中旬"
+        }
+      ],
+      "notionId": "40baaca0-78ff-81e1-91e1-e721281f7575"
+    },
+    {
+      "id": "wn-26155",
+      "name": "興聖寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.890032,
+        "lng": 135.813686,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府宇治市宇治山田27-1",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26155/",
+          "phase": "green",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-30",
+          "typical": "11月下旬～12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36556?lang=ja",
+          "phase": "green",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26115",
+      "name": "高台寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.000795,
+        "lng": 135.781102,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市東山区下河原町526",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26115/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-24",
+          "typical": "11月中旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36551?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": "40baaca0-78ff-8112-9e4a-c7fb69a2a51c"
+    },
+    {
+      "id": "wn-26166",
+      "name": "金剛院",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.476241,
+        "lng": 135.447264,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府舞鶴市鹿原595",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26166/",
+          "phase": "peak",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-13",
+          "typical": "11月上旬～11月下旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/30343?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26147",
+      "name": "嵯峨野トロッコ列車",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.0187240198331,
+        "lng": 135.680465698242,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都市右京区嵯峨天竜寺車道町",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26147/",
+          "phase": "unknown",
+          "reportedAt": null,
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": "11月中旬～12月上旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26141",
+      "name": "将軍塚青龍殿",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.001796,
+        "lng": 135.787657,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市山科区厨子奥花鳥町28",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26141/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-24",
+          "typical": "11月下旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-16117",
+      "name": "渉成園（枳殻邸）",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.991293,
+        "lng": 135.763057,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市下京区下珠数屋町通間之町東入東玉水町",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/16117/",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": "11月中旬～11月下旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26118",
+      "name": "正法寺(和束)",
+      "region": "京都府",
+      "trees": [
+        "maple",
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 34.79273,
+        "lng": 135.902892,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府相楽郡和束町南下河原71",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26118/",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-19",
+          "typical": "11月中旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/30347?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26151",
+      "name": "真如堂",
+      "region": "京都府",
+      "trees": [
+        "maple",
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 35.021457,
+        "lng": 135.789245,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市左京区浄土寺真如町82",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26151/",
+          "phase": "unknown",
+          "reportedAt": null,
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": "11月下旬～12月上旬"
+        }
+      ],
+      "notionId": "40baaca0-78ff-8110-ac07-e2e89a3202dd"
+    },
+    {
+      "id": "wn-26119",
+      "name": "実相院門跡",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.078968,
+        "lng": 135.781653,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市左京区岩倉上蔵町121",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26119/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": "11月中旬～12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36564?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26134",
+      "name": "常寂光寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.020022,
+        "lng": 135.668945,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市右京区嵯峨小倉山小倉町3",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26134/",
+          "phase": "turning",
+          "reportedAt": "2026-11-06",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-25",
+          "typical": "11月中旬〜11月下旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36549?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26176",
+      "name": "城南宮　神苑「楽水苑」",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.950675,
+        "lng": 135.746856,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市伏見区中島鳥羽離宮町7",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26176/",
+          "phase": "unknown",
+          "reportedAt": null,
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": "11月下旬～12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36589?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26167",
+      "name": "浄瑠璃寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.715521,
+        "lng": 135.872962,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府木津川市加茂町西小札場40",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26167/",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-23",
+          "typical": "11月中旬～11月下旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36572?lang=ja",
+          "phase": "green",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26106",
+      "name": "神護寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.05461,
+        "lng": 135.669958,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市右京区梅ヶ畑高雄町5",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26106/",
+          "phase": "peak",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-13",
+          "typical": "11月上旬〜11月下旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36561?lang=ja",
+          "phase": "peak",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": "40baaca0-78ff-81e3-afd9-e7ea46a25b6c"
+    },
+    {
+      "id": "wn-26108",
+      "name": "総本山光明寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.9387802292138,
+        "lng": 135.678099989891,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府長岡京市粟生西条内26-1",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26108/",
+          "phase": "green",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-27",
+          "typical": "11月下旬～12月初旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36563?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": "40baaca0-78ff-8169-9a8f-f42a024a082d"
+    },
+    {
+      "id": "wn-26204",
+      "name": "高雄",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.054823,
+        "lng": 135.673874,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市右京区梅ヶ畑高雄町",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26204/",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-23",
+          "typical": "11月中旬〜11月下旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26116",
+      "name": "大本山隨心院",
+      "region": "京都府",
+      "trees": [
+        "maple",
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 34.959367,
+        "lng": 135.815992,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市山科区小野御霊町35",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26116/",
+          "phase": "green",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-27",
+          "typical": "11月下旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/30825?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26121",
+      "name": "知恩院",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.0052136041111,
+        "lng": 135.783376693726,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市東山区林下町400",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26121/",
+          "phase": "turning",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-27",
+          "typical": "11月下旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36588?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": "40baaca0-78ff-817e-9764-e5e78b5432a1"
+    },
+    {
+      "id": "wn-26177",
+      "name": "長安寺",
+      "region": "京都府",
+      "trees": [
+        "maple",
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 35.313716,
+        "lng": 135.08435,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府福知山市奥野部577",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26177/",
+          "phase": "peak",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-13",
+          "typical": "11月中旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36682?lang=ja",
+          "phase": "peak",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26105",
+      "name": "南禅寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.011261,
+        "lng": 135.793801,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市左京区南禅寺福地町",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26105/",
+          "phase": "turning",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-25",
+          "typical": "11月中旬〜12月上旬"
+        }
+      ],
+      "notionId": "40baaca0-78ff-815d-b42c-eca27552e9e2"
+    },
+    {
+      "id": "wn-26149",
+      "name": "二尊院",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.020894,
+        "lng": 135.667956,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市右京区嵯峨二尊院門前長神町27",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26149/",
+          "phase": "turning",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-23",
+          "typical": "11月中旬～12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36596?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26130",
+      "name": "仁和寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.031095,
+        "lng": 135.713811,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市右京区御室大内33",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26130/",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-23",
+          "typical": "12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/30779?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26102",
+      "name": "宝筐院(嵯峨野)",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.022515,
+        "lng": 135.673572,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市右京区嵯峨釈迦堂門前南中院町9-1",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26102/",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-25",
+          "typical": "11月下旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36591?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": "40baaca0-78ff-8114-b49d-f4d3e734518d"
+    },
+    {
+      "id": "wn-26163",
+      "name": "三室戸寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.900504,
+        "lng": 135.819157,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府宇治市莵道滋賀谷21",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26163/",
+          "phase": "turning",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-20",
+          "typical": "11月中旬～12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36670?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26175",
+      "name": "元離宮二条城",
+      "region": "京都府",
+      "trees": [
+        "maple",
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 35.0147524088973,
+        "lng": 135.749795436859,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市中京区二条通堀川西入二条城町541",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26175/",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-28",
+          "typical": "11月中旬～12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/36683?lang=ja",
+          "phase": "green",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": "40baaca0-78ff-81e2-9f58-ddd1f8339343"
+    },
+    {
+      "id": "wn-26164",
+      "name": "八瀬もみじの小径",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.066487,
+        "lng": 135.808414,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市左京区上高野東山",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26164/",
+          "phase": "unknown",
+          "reportedAt": null,
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": "11月中旬～12月上旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26131",
+      "name": "龍安寺",
+      "region": "京都府",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.03367,
+        "lng": 135.718222,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府京都市右京区龍安寺御陵下町13",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26131/",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-26",
+          "typical": "11月下旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1005",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1005/pastinfo/30780?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": "40baaca0-78ff-8123-b153-c1c818b48faf"
+    },
+    {
+      "id": "wn-26187",
+      "name": "龍穏寺",
+      "region": "京都府",
+      "trees": [
+        "maple",
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 35.10548,
+        "lng": 135.432415,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "京都府南丹市園部町仁江甲溝畑１",
+      "reports": [
+        {
+          "sourceId": "wn-kyoto",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26187/",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-20",
+          "typical": "11月中旬〜11月下旬"
+        }
+      ],
+      "notionId": "40baaca0-78ff-8159-b6b9-ff8b7ef7a993"
+    },
+    {
+      "id": "wn-26021",
+      "name": "教林坊",
+      "region": "滋賀縣",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.138895,
+        "lng": 136.163856,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "滋賀県近江八幡市安土町石寺1145",
+      "reports": [
+        {
+          "sourceId": "wn-shiga",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26021/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-22",
+          "typical": "11月下旬～12月上旬"
+        }
+      ],
+      "notionId": "40baaca0-78ff-81b0-8ae5-c0a4892c3f6e"
+    },
+    {
+      "id": "wn-26009",
+      "name": "湖東三山(金剛輪寺)",
+      "region": "滋賀縣",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.163266,
+        "lng": 136.279583,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "滋賀県愛知郡愛荘町松尾寺874",
+      "reports": [
+        {
+          "sourceId": "wn-shiga",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26009/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-21",
+          "typical": "11月中旬〜12月上旬"
+        }
+      ],
+      "notionId": "40baaca0-78ff-8148-b3cd-dcba24da61e9"
+    },
+    {
+      "id": "wn-26016",
+      "name": "西教寺",
+      "region": "滋賀縣",
+      "trees": [
+        "maple",
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 35.081207542799,
+        "lng": 135.866460800171,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "滋賀県大津市坂本5-13-1",
+      "reports": [
+        {
+          "sourceId": "wn-shiga",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26016/",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-23",
+          "typical": "11月中旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1004",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1004/pastinfo/36674?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26024",
+      "name": "大池寺",
+      "region": "滋賀縣",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.983809,
+        "lng": 136.171984,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "滋賀県甲賀市水口町名坂1168",
+      "reports": [
+        {
+          "sourceId": "wn-shiga",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26024/",
+          "phase": "turning",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-21",
+          "typical": "10月下旬～12月上旬"
+        },
+        {
+          "sourceId": "jr-A1004",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1004/pastinfo/30244?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26001",
+      "name": "大本山永源寺",
+      "region": "滋賀縣",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.080545,
+        "lng": 136.319872,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "滋賀県東近江市永源寺高野町41",
+      "reports": [
+        {
+          "sourceId": "wn-shiga",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26001/",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-17",
+          "typical": "11月中旬〜11月下旬"
+        },
+        {
+          "sourceId": "jr-A1004",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1004/pastinfo/36553?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": "40baaca0-78ff-8100-b2e9-e6b35086fc8b"
+    },
+    {
+      "id": "wn-26104",
+      "name": "比叡山延暦寺",
+      "region": "滋賀縣",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.070469,
+        "lng": 135.841119,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "滋賀県大津市坂本本町4220",
+      "reports": [
+        {
+          "sourceId": "wn-shiga",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26104/",
+          "phase": "peak",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-05",
+          "typical": "10月下旬〜11月中旬"
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26003",
+      "name": "日吉大社",
+      "region": "滋賀縣",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.071351,
+        "lng": 135.865134,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "滋賀県大津市坂本5-1-1",
+      "reports": [
+        {
+          "sourceId": "wn-shiga",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26003/",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-25",
+          "typical": "11月中旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1004",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1004/pastinfo/36554?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26023",
+      "name": "三井寺",
+      "region": "滋賀縣",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 35.013012571671794,
+        "lng": 135.85191249847415,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "滋賀県大津市園城寺町246",
+      "reports": [
+        {
+          "sourceId": "wn-shiga",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26023/",
+          "phase": "green",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-25",
+          "typical": "11月中旬～11月下旬"
+        },
+        {
+          "sourceId": "jr-A1004",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1004/pastinfo/36668?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26512",
+      "name": "古座川峡",
+      "region": "和歌山縣",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 33.556894,
+        "lng": 135.711388,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "和歌山県東牟婁郡古座川町相瀬",
+      "reports": [
+        {
+          "sourceId": "wn-wakayama",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26512/",
+          "phase": "green",
+          "reportedAt": "2026-11-11",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-11-27",
+          "typical": "11月下旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1009",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1009/pastinfo/36610?lang=ja",
+          "phase": "green",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    },
+    {
+      "id": "wn-26515",
+      "name": "丹生酒殿神社",
+      "region": "和歌山縣",
+      "trees": [
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 34.289222334821325,
+        "lng": 135.52019834518435,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "和歌山県伊都郡かつらぎ町三谷６３１",
+      "reports": [
+        {
+          "sourceId": "wn-wakayama",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26515/",
+          "phase": "turning",
+          "reportedAt": "2026-11-10",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": "11月下旬"
+        },
+        {
+          "sourceId": "wakayama-tourism",
+          "provider": "和歌山縣官方觀光",
+          "url": "https://www.wakayama-kanko.or.jp/events/detail_3876.html",
+          "phase": "unknown",
+          "reportedAt": null,
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "ginkgo",
+          "kind": "typical",
+          "forecastAt": null,
+          "typical": "11月下旬（歷年目安，非今年實測）"
+        }
+      ],
+      "notionId": "40baaca0-78ff-81a6-91cf-f859677a2208"
+    },
+    {
+      "id": "wn-26504",
+      "name": "根来寺境内もみじ谷公園",
+      "region": "和歌山縣",
+      "trees": [
+        "maple"
+      ],
+      "coordinates": {
+        "lat": 34.287028,
+        "lng": 135.31619,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "和歌山県岩出市根来2286",
+      "reports": [
+        {
+          "sourceId": "wn-wakayama",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26504/",
+          "phase": "green",
+          "reportedAt": "2026-11-05",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": "2026-12-01",
+          "typical": "11月下旬〜12月上旬"
+        },
+        {
+          "sourceId": "jr-A1009",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1009/pastinfo/30471?lang=ja",
+          "phase": "green",
+          "reportedAt": "2026-11-13",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": "40baaca0-78ff-81d7-88d3-e68ed0a99095"
+    },
+    {
+      "id": "wn-26516",
+      "name": "福定の大銀杏",
+      "region": "和歌山縣",
+      "trees": [
+        "ginkgo"
+      ],
+      "coordinates": {
+        "lat": 33.820087,
+        "lng": 135.56262,
+        "source": "Weathernews 公開景點位置"
+      },
+      "address": "和歌山県田辺市中辺路町福定275",
+      "reports": [
+        {
+          "sourceId": "wn-wakayama",
+          "provider": "Weathernews",
+          "url": "https://weathernews.jp/koyo/spot/26516/",
+          "phase": "unknown",
+          "reportedAt": null,
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "ginkgo",
+          "forecastAt": null,
+          "typical": "11月中旬〜11月下旬"
+        },
+        {
+          "sourceId": "jr-A1009",
+          "provider": "JR 西日本・紅葉だより",
+          "url": "https://kisetsu.jr-odekake.net/result/MMJ/A1009/pastinfo/36676?lang=ja",
+          "phase": "turning",
+          "reportedAt": "2026-11-12",
+          "fetchedAt": "2026-11-13T12:34:18.487Z",
+          "scope": "site",
+          "forecastAt": null,
+          "typical": ""
+        }
+      ],
+      "notionId": null
+    }
+  ]
+}
