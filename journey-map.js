@@ -1,4 +1,4 @@
-import {dayAnchors} from './travel-details.js';
+import {dayAnchors} from './travel-details.js?v=1.8.0';
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export function routeLinks(spots){const out=[];for(let i=0;i<spots.length-1;i+=4){const part=spots.slice(i,i+5),query=new URLSearchParams({api:'1',travelmode:'driving',origin:part[0].address||part[0].name,destination:part.at(-1).address||part.at(-1).name});if(part.length>2)query.set('waypoints',part.slice(1,-1).map(s=>s.address||s.name).join('|'));out.push('https://www.google.com/maps/dir/?'+query);}return out;}
 export function selectedSpots(data,state,mode,date,custom){const ids=mode==='day'?(state.days[date]?.stops||data.spots.filter(s=>s.date?.slice(0,10)===date)).map(s=>s.id):mode==='favorites'?state.favorites:mode==='custom'?custom:data.spots.map(s=>s.id);const places=ids.map(id=>data.spots.find(s=>s.id===id)).filter(Boolean);if(mode!=='day')return places;const fixed=dayAnchors(state,date);return [...fixed.before,...places,...fixed.after];}
