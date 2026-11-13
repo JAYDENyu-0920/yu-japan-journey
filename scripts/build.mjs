@@ -2,6 +2,6 @@ import {syncFoliage} from './sync-foliage.mjs';
 import {mkdir,copyFile,cp} from 'node:fs/promises';
 await syncFoliage().catch(e=>console.warn('Foliage refresh unavailable; retaining bundled snapshot:',e.message));
 await mkdir('dist',{recursive:true});
-for(const f of ['foliage-map.js','motion-ui.js','travel-details.js',"cloud-bridge.js","cloud-sync.js","cloud-sync-core.js","cloud-config.json","supabase.js",'SUPABASE-LICENSE.txt','index.html','app.js','external-search.js','style.css','sw.js','manifest.webmanifest','icon.svg','journey-map.js','journey-map.css','leaflet.js','leaflet.css','positions.json','LEAFLET-LICENSE.txt','icon-180.png','icon-192.png','icon-512.png']) await copyFile(f,`dist/${f}`);
+for(const f of ['travel-assistant.js','foliage-map.js','motion-ui.js','travel-details.js',"cloud-bridge.js","cloud-sync.js","cloud-sync-core.js","cloud-config.json","supabase.js",'SUPABASE-LICENSE.txt','index.html','app.js','external-search.js','style.css','sw.js','manifest.webmanifest','icon.svg','journey-map.js','journey-map.css','leaflet.js','leaflet.css','positions.json','LEAFLET-LICENSE.txt','icon-180.png','icon-192.png','icon-512.png']) await copyFile(f,`dist/${f}`);
 await cp('data','dist/data',{recursive:true});
 await copyFile('.nojekyll','dist/.nojekyll');
