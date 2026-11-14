@@ -1,5 +1,5 @@
-import {selectedSpots,placePosition} from './journey-map.js?v=2.0.0';
-import {summarize,phaseLabels,validPlace,sourceURL} from './foliage-map.js?v=2.0.0';
+import {selectedSpots,placePosition} from './journey-map.js?v=2.1.0';
+import {summarize,phaseLabels,validPlace,sourceURL} from './foliage-map.js?v=2.1.0';
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const minutes=t=>/^\d\d:\d\d$/.test(t||'')?Number(t.slice(0,2))*60+Number(t.slice(3)):null;
 export const clock=value=>{const n=Math.round(value);return `${n>=1440?'翌日 ':''}${String(Math.floor(n/60)%24).padStart(2,'0')}:${String(n%60).padStart(2,'0')}`};
