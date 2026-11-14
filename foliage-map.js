@@ -1,4 +1,4 @@
-import {enhanceMapShell,loadLeaflet,mapScene,installBasemap,renderClustered} from './journey-map.js?v=2.1.0';
+import {enhanceMapShell,loadLeaflet,mapScene,installBasemap,renderClustered} from './journey-map.js?v=2.2.0';
 export const phaseLabels={green:'尚偏綠',turning:'開始／逐漸轉色',peak:'見頃',fading:'開始褪色／落葉',fallen:'已落葉',unknown:'未有明確色況'};
 const allowedHosts=new Set(['weathernews.jp','www.weathernews.jp','kisetsu.jr-odekake.net','www.wakayama-kanko.or.jp']);
 export function sourceURL(value){try{const u=new URL(value);return u.protocol==='https:'&&allowedHosts.has(u.hostname)?u.href:null}catch{return null}}
