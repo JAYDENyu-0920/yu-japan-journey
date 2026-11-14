@@ -1,5 +1,5 @@
-import {initCloudSync} from './cloud-sync.js?v=1.9.0';
-import {validSnapshot} from './cloud-sync-core.js?v=1.9.0';
+import {initCloudSync} from './cloud-sync.js?v=2.0.0';
+import {validSnapshot} from './cloud-sync-core.js?v=2.0.0';
 // Deferred integration: call only after the backend and public config are verified.
 export function buildSnapshot(trip,storage=localStorage){let selected=[],positions={};try{selected=JSON.parse(storage.getItem('yu-map-selected')||'[]');positions=JSON.parse(storage.getItem('yu-map-positions')||'{}')}catch{}return{schemaVersion:1,trip:structuredClone({favorites:trip.favorites,visited:trip.visited,days:trip.days,customSpots:trip.customSpots||[]}),map:{selected,positions}}}
 export function connectCloudToJourney(ctx,{config,createClient,storage=localStorage}){
